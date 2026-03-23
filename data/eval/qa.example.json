@@ -1,0 +1,12 @@
+[
+  {
+    "question": "What did the court hold regarding adverse possession in this corpus?",
+    "expected_sources": ["SC_2018_ABC_vs_XYZ.pdf"],
+    "answerable": true
+  },
+  {
+    "question": "What is the holding in a case not included in this corpus?",
+    "expected_sources": [],
+    "answerable": false
+  }
+]
